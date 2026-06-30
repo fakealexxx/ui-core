@@ -4,14 +4,14 @@
 
 <h1 align="center">UI-Core</h1>
 
-<h3 align="center">Modular UI framework for Roblox game development.</h3>
-
+<h6 align="center">Modular UI framework for Roblox game development.</h6>
+<div align="center">
 <div align="center">
   Join our <a href="https://discord.gg/7aceVG7VEj">Discord</a> for support.
 </div>
 
 <div align="center">
-
+  
 [![Version](https://img.shields.io/github/v/release/ExMod-Team/EXILED?sort=semver&style=flat-square&color=8DBBE9&label=Version)]()
 [![License]()]()
 [![Discord](https://img.shields.io/discord/656673194693885975?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/7aceVG7VEj)
