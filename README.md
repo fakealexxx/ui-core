@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center">UI-Core</h1>
-<h6 align="center">Modular UI framework for Roblox game development.</h6>
+
+<h3 align="center">Modular UI framework for Roblox game development.</h3>
+
 <div align="center">
-    Join our
-    <a href="[https://discord.gg/7aceVG7VEj](https://discord.gg/7aceVG7VEj)">Discord</a>
-    for support.
-  <p></p>
-</div> 
+  Join our <a href="https://discord.gg/7aceVG7VEj">Discord</a> for support.
+</div>
 
 <div align="center">
 
