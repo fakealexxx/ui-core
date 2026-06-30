@@ -6,10 +6,6 @@
 
 <h6 align="center">Modular UI framework for Roblox game development.</h6>
 
-<p align="center">
-  <img alt="EXILED Development" src="https://repobeats.axiom.co/api/embed/19be90a4299eb2cfb0891a0c35774a120ed0f1ec.svg">
-</p>
-
 <h1 align="center">
 Localized READMEs
 </h1>
