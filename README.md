@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat)
+![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat-square)
 
 </div>
 
