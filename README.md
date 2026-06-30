@@ -10,14 +10,6 @@
   Join our <a href="https://discord.gg/7aceVG7VEj">Discord</a> for support.
 </div>
 
-<div align="center">
-  
-[![Version](https://img.shields.io/github/v/release/ExMod-Team/EXILED?sort=semver&style=flat-square&color=8DBBE9&label=Version)]()
-[![License]()]()
-[![Discord](https://img.shields.io/discord/656673194693885975?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/7aceVG7VEj)
-
-</div>
-
 <p align="center">
   <img alt="EXILED Development" src="https://repobeats.axiom.co/api/embed/19be90a4299eb2cfb0891a0c35774a120ed0f1ec.svg">
 </p>
