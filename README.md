@@ -14,7 +14,7 @@
 
 </div>
 
-<h1 align="center">
+<h3 align="center">
 Localized READMEs
 </h1>
 
