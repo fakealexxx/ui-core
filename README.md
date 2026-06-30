@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/brain.svg" width="32" height="32" />
-  <br />
+  <img src="assets/brain.svg" width="64" height="64" />
 </p>
 
 <h1 align="center">UI-Core</h1>
