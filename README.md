@@ -1,4 +1,7 @@
-<img src="https://lucide.dev/icons/brain" width="28" height="28" /> Ui Core
+<p align="center">
+  <img src="assets/brain.svg" width="32" height="32" />
+  <br />
+</p>
 
 <h1 align="center">UI-Core</h1>
 <h6 align="center">Modular UI framework for Roblox game development.</h6>
