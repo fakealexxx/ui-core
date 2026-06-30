@@ -5,10 +5,6 @@
 <h1 align="center">UI-Core</h1>
 
 <h6 align="center">Modular UI framework for Roblox game development.</h6>
-<div align="center">
-<div align="center">
-  Join our <a href="https://discord.gg/7aceVG7VEj">Discord</a> for support.
-</div>
 
 <p align="center">
   <img alt="EXILED Development" src="https://repobeats.axiom.co/api/embed/19be90a4299eb2cfb0891a0c35774a120ed0f1ec.svg">
