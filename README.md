@@ -6,6 +6,12 @@
 
 <h6 align="center">Modular UI framework for Roblox game development.</h6>
 
+<div align="center">
+  
+![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat)
+
+</div>
+
 <h1 align="center">
 Localized READMEs
 </h1>
