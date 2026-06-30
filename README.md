@@ -9,6 +9,8 @@
 <div align="center">
   
 ![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat-square)
+![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat-square)
+![Testing Library Badge](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff&style=flat-square)
 
 </div>
 
