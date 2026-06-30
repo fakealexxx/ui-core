@@ -6,7 +6,7 @@
 <h6 align="center">Modular UI framework for Roblox game development.</h6>
 <div align="center">
     Join our
-    <a href="[https://discord.gg/PyUkWTg](https://discord.gg/7aceVG7VEj)">Discord</a>
+    <a href="[https://discord.gg/7aceVG7VEj](https://discord.gg/7aceVG7VEj)">Discord</a>
     for support.
   <p></p>
 </div> 
